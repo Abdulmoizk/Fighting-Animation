@@ -10,7 +10,16 @@
 .character {
     position: absolute;
     bottom: 40px;
-    left: 35px;
+    left: 60px;
+    object-fit: contain;
+    width: 200px;
+    height: 180px;
+}
+.character2 {
+    position: absolute;
+    bottom: 40px;
+    left: 1200px;
+    transform: scaleX(-1);
     object-fit: contain;
     width: 200px;
     height: 180px;
