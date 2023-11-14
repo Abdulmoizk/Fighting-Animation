@@ -18,7 +18,7 @@
 .character2 {
     position: absolute;
     bottom: 40px;
-    left: 1200px;
+    left: 1000px;
     transform: scaleX(-1);
     object-fit: contain;
     width: 200px;
